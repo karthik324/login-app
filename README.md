@@ -5,7 +5,8 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-Its Just a simple app containing two pages login and home. 
+Its Just a simple app containing two pages
+login and home. 
 
 
 Username : 12345
