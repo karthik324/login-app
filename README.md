@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-Its Just a simple app containing two pages
+This project is my starting point to be a Flutter dev.
+Its a simple app containing two pages
 login and home. 
 
 
